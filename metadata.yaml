@@ -1,0 +1,36 @@
+_repo: The-High-Toby-Being-further-chapters-in-the-life-and-fortunes-of-Dick-Ryder-otherwise-Gallopi__53133
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shepperson, Claude A. (Claude Allin)
+    alias: Shepperson, Claude Allin
+    birthdate: 1867
+    deathdate: &id001 1921
+    gutenberg_agent_id: '9924'
+    url: http://www.gutenberg.org/2009/agents/9924
+creator:
+  author:
+    agent_name: Watson, H. B. Marriott (Henry Brereton Marriott)
+    alias: Watson, Henry Brereton Marriott
+    birthdate: 1863
+    deathdate: *id001
+    gutenberg_agent_id: '33303'
+    url: http://www.gutenberg.org/2009/agents/33303
+description: ''
+gutenberg_issued: '2016-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brigands and robbers -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 17th century -- Fiction'
+- GITenberg
+title: "The High Toby\r\nBeing further chapters in the life and fortunes of Dick Ryder,\
+  \ otherwise Galloping Dick, sometime gentleman of the road"
+url: http://www.gutenberg.org/ebooks/53133
